@@ -6,3 +6,10 @@ body {
 .m{
   text-align: center;
 }
+.ne{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  float: left;
+
+}
